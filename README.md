@@ -83,5 +83,8 @@ Axel is a desk companion that keeps you working while teaching you some fan fact
 ## THE IDEA
 Can I make a robot in just 2 days (weekend) without any AI help. Basically to apply my skils and see them come to life practically. This I idea occured to me while doing the Harvard CS course of 2026 that was talking about the rubber duck (talk to the rubber duck to think better and organise your thoughts). Axel is my rubber duck.
 
+## Showcase
+https://youtu.be/CvJRd78dGLs
+
 ## Author
 Made with ❤️ by Rosario Alexandros Morabito
