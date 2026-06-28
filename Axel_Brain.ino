@@ -196,16 +196,19 @@ void loop() {
       else if(!rageQuit &&
               millis() - lastEmotionTime > 12000){
 
-          int emotion = random(0,3);
+            int emotion = random(0,4);
 
-          if(emotion==0)
-              isBored();
+            if(emotion==0)
+                isBored();
 
-          else if(emotion==1)
-              isHappy();
+            else if(emotion==1)
+                isHappy();
 
-          else
-              isAngry();
+            else if(emotion==2)
+                isAngry();
+
+            else
+                robotFact();
 
           lastEmotionTime = millis();
       }
@@ -416,6 +419,75 @@ void isDarkScared() {
   neck.write(90);
 
   delay(2500);
+
+  idleFace();
+}
+
+void robotFact() {
+
+  const char* facts[] = {
+    "Robots don't yawn.",
+    "First robot:1961",
+    "I dream in C++.",
+    "Beep means hello!",
+    "Servo = robot neck.",
+    "404: Joke missing.",
+    "01001000 = H",
+    "I obey...mostly.",
+    "Humans recharge me.",
+    "Oil > Coffee."
+  };
+
+  const char* puns[] = {
+    "I byte people.",
+    "You auto-complete me.",
+    "You look electric!",
+    "Stay positive...VCC",
+    "My jokes compute.",
+    "Error 404: Humor",
+    "I wheel survive.",
+    "Nice to beep you!",
+    "I'm all wired up.",
+    "Bots have feelings?"
+  };
+
+  bool showPun = random(0,2);
+
+  lcd.clear();
+
+  if(showPun){
+
+    lcd.setCursor(0,0);
+    lcd.print("Robot Pun:");
+
+    lcd.setCursor(0,1);
+    lcd.print(puns[random(0,10)]);
+
+    tone(SPEAKER_PIN,1200,120);
+    delay(150);
+    tone(SPEAKER_PIN,1500,120);
+
+  } else {
+
+    lcd.setCursor(0,0);
+    lcd.print("Fun Fact:");
+
+    lcd.setCursor(0,1);
+    lcd.print(facts[random(0,10)]);
+
+    tone(SPEAKER_PIN,800,120);
+    delay(150);
+    tone(SPEAKER_PIN,1000,120);
+
+  }
+
+  neck.write(70);
+  delay(700);
+  neck.write(110);
+  delay(700);
+  neck.write(90);
+
+  delay(4000);
 
   idleFace();
 }
