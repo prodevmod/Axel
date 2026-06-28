@@ -44,6 +44,41 @@ Axel is a desk companion that keeps you working while teaching you some fan fact
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/0059b5a2-cbb8-4b5e-84d7-747ace38d910" />
 
+## EVERY POSSIBLE OUTPUT (if I remember correctly)
+Robot Booting
+Soldering at 2am / is fire...
+Idle face
+GOOD JOB (^_^)
+Type faster (>_<)
+Start typing (-_-)
+Scared face (O)
+Thats absolute / ragebait
+I am leaving
+FINE IM BACK
+SEARCHING...
+Search face (eyes + magnifying glass)
+WELCOME BACK
+TOO DARK! / Turn on light
+Fun Fact: Robots don't yawn.
+Fun Fact: First industrial robot: 1961.
+Fun Fact: I dream in C++.
+Fun Fact: Beep means hello!
+Fun Fact: My neck uses a servo.
+Fun Fact: Mars has robot explorers.
+Fun Fact: Robots need sensors to "see."
+Fun Fact: I run on an Arduino.
+Fun Fact: Electricity is robot food.
+Fun Fact: AI isn't the same as a robot.
+Robot Pun: I byte, not bite.
+Robot Pun: Nice to beep you!
+Robot Pun: You auto-complete me.
+Robot Pun: Stay positive... VCC.
+Robot Pun: Watt are you doing?
+Robot Pun: Resistance is ohm-possible.
+Robot Pun: I'm feeling a bit rusty.
+Robot Pun: My humor is electrically charged.
+Robot Pun: You make my circuits smile.
+Robot Pun: I was programmed to like you.
 
 ## THE IDEA
 Can I make a robot in just 2 days (weekend) without any AI help. Basically to apply my skils and see them come to life practically. This I idea occured to me while doing the Harvard CS course of 2026 that was talking about the rubber duck (talk to the rubber duck to think better and organise your thoughts). Axel is my rubber duck.
