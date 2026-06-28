@@ -1,5 +1,15 @@
 # Meet AXEL
 
+Axel is a desk companion that keeps you working while teaching you some fan facts about robotics.Don't scare him or he will ragequit.Sometimes he gets a bit to bossy.
+
+#Modes
+- Angry: Demands faster typing and sets off a bomb
+- Bored: Suggests you stop vibe coding and start typing
+- Happy: Rewards your good Job
+- Curious: Searches after you leave for a long time
+- Succesfuly Ragebaited: build it yourself and findout what happens
+- Idle: Just a Jolly companion
+
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae6dba67-eb6b-4b27-889a-ac09f209d4f1" />
 
  ## Components
@@ -34,4 +44,7 @@
 
 
 ## THE IDEA
-Can I make a robot in just 2 days (weekend) without any AI help. Basically to apply my skils and see them come to life practically.
+Can I make a robot in just 2 days (weekend) without any AI help. Basically to apply my skils and see them come to life practically. This I idea occured to me while doing the Harvard CS course of 2026 that was talking about the rubber duck (talk to the rubber duck to think better and organise your thoughts). Axel is my rubber duck.
+
+## Author
+Made with ❤️ by Rosario Alexandros Morabito
