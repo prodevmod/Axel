@@ -7,6 +7,8 @@ Axel is a desk companion that keeps you working while teaching you some fan fact
 - Bored: Suggests you stop vibe coding and start typing
 - Happy: Rewards your good Job
 - Curious: Searches after you leave for a long time
+- Scared: Don't get too close to him he will get angrry
+- Scared of the dark: He doesn't like beeing in the dark
 - Succesfuly Ragebaited: build it yourself and findout what happens
 - Idle: Just a Jolly companion
 
