@@ -7,7 +7,7 @@
 - Speaker/piezo
 - Servo 180 motor
 - LCD screen
-- Photocell
+- Light Dependent Resistor
 - 10kΩ potentiometer (for the lcd screen, you can just use an I2C)
 - Rgb ring (for a visual effect)
 - Breadboard Power Suply for more flexibility
